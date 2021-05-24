@@ -44,3 +44,13 @@ body {
   margin: 40px auto;
   padding: 20px;
 }
+
+.blog-preview {
+  padding: 10px 20px;
+  color: #114359;
+}
+
+.blog-preview p {
+  font-size: 15px;
+  padding: 5px 0;
+}
