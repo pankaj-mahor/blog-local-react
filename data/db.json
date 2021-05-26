@@ -1,0 +1,16 @@
+{
+    "blogs" : [
+        {
+            "title" : "My First Blog",
+            "body" : "Why do we use it? \n lorem inpsujkn ikwyhfb f fygerikufrukc ukybg fkcugbrjrkctyfcg kiu rkug b b lgbrhfyugbrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr rygfbrhuyvfrgfvrgfvruyrgirhrgjuhgriy",
+            "author" : "mario",
+            "id" : 1
+        },
+        {
+            "title" : "My Second Blog",
+            "body" : "Why do we use it? \n lorem inpsujkn ikwyhfb f fygerikufrukc ukybg fkcugbrjrkctyfcg kiu rkug b b lgbrhfyugbrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr rygfbrhuyvfrgfvrgfvruyrgirhrgjuhgriy",
+            "author" : "yonso",
+            "id" : 2
+        }
+    ]
+}
