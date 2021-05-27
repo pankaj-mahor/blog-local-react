@@ -64,8 +64,24 @@ body {
   padding: 5px 12px;
   text-decoration: none;
   color: #fff;
-  margin: 0.5rem 0;
+  margin: 0.5rem 0.1rem;
   background: #f1356d;
+}
+
+.deleted {
+  cursor: pointer;
+  border: none;
+  outline: none;
+  display: inline-block;
+  padding: 5px 12px;
+  text-decoration: none;
+  color: #fff;
+  margin-left: 0.5rem;
+  background: #114359;
+}
+
+.read-more:hover {
+  filter: brightness(90%);
 }
 
 article {
@@ -77,4 +93,51 @@ article {
 
 article>* {
   padding-top: 10px;
+}
+
+form {
+  max-width: 500px;
+  margin: 1rem auto;
+}
+
+form label {
+  text-align: left;
+}
+
+form h2 {
+  color: #f1356d;
+  text-align: center;
+}
+
+.successMsg {
+  background: green;
+  color: #fff;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 1.2rem;
+}
+
+input,
+textarea,
+select {
+  width: 100%;
+  display: block;
+  margin: 10px;
+  padding: 5px 12px;
+}
+
+button.submit-btn {
+  padding: 5px 12px;
+  cursor: pointer;
+  background: #f1356d;
+  border-radius: 5px;
+  /* margin-top: 1rem; */
+  color: #fff;
+  border: none;
+  outline: none;
+  margin: 1rem auto;
+  text-align: center;
+  display: grid;
+  place-content: center;
+  /* display: inline-block; */
 }
