@@ -1,15 +1,15 @@
 {
     "blogs" : [
         {
-            "title" : "My First Blog",
-            "body" : "Why do we use it? \n lorem inpsujkn ikwyhfb f fygerikufrukc ukybg fkcugbrjrkctyfcg kiu rkug b b lgbrhfyugbrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr rygfbrhuyvfrgfvrgfvruyrgirhrgjuhgriy",
-            "author" : "mario",
+            "title" : "Top 10 Websites fro developers",
+            "body" : "Coursera is also one of the biggest place to learn but it costs more. Coursera courses are definitely more valuable for your certification, as they are from well known companies. But nothing is more important than skill.So, if you can afford, then you can definitely go for Coursera. https://google.com",
+            "author" : "Pankaj",
             "id" : 1
         },
         {
-            "title" : "My Second Blog",
+            "title" : "@nd Blog",
             "body" : "Why do we use it? \n lorem inpsujkn ikwyhfb f fygerikufrukc ukybg fkcugbrjrkctyfcg kiu rkug b b lgbrhfyugbrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr rygfbrhuyvfrgfvrgfvruyrgirhrgjuhgriy",
-            "author" : "yonso",
+            "author" : "Mahor",
             "id" : 2
         }
     ]

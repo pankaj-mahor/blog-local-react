@@ -58,3 +58,23 @@ body {
 .blog-preview h2 {
   color: #f1356d;
 }
+
+.read-more {
+  display: inline-block;
+  padding: 5px 12px;
+  text-decoration: none;
+  color: #fff;
+  margin: 0.5rem 0;
+  background: #f1356d;
+}
+
+article {
+  padding: 10px;
+  /* background: #000; */
+  /* width: 500px; */
+  height: max-content;
+}
+
+article>* {
+  padding-top: 10px;
+}
